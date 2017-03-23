@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_data">
+        <item>0沉浸通知栏</item>
+        <item>1拍照、相册选择图片</item>
+        <item>2Retrofit封装</item>
+        <item>3标题栏渐变</item>
+        <item>4时间选择器</item>
+        <item>5统一Dialog</item>
+        <item>6头像组件样式</item>
+        <item>7LoadingView</item>
+        <item>头像组件样式</item>
+        <item>头像组件样式</item>
+        <item>头像组件样式</item>
+        <item>头像组件样式</item>
+        <item>头像组件样式</item>
+        <item>头像组件样式</item>
+    </string-array>
+</resources>
